@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhur Gupta</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 📫 How to reach me **guptamadhur2003@gmail.com**
+- 📫 How to reach me **om96002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
